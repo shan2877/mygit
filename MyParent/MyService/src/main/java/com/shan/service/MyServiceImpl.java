@@ -1,5 +1,8 @@
 package com.shan.service;
 
+/**
+ *  author BC01641
+ */
 
 import com.shan.common.util.*;
 public class MyServiceImpl {
