@@ -1,7 +1,7 @@
 package com.shan.service;
 
 /**
- *  author BC01641
+ * Author Shanmuga Sundaram Added
  */
 
 import com.shan.common.util.*;
@@ -14,3 +14,4 @@ public class MyServiceImpl {
 	}
 
 }
+
